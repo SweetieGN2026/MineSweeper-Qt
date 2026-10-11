@@ -27,10 +27,6 @@ MineSweeper/
 ├── mainwindow.h/cpp      # Qt 主窗口 UI、鼠标事件处理
 ├── MineSweeper.h           # 扫雷核心类头文件（对外接口）
 └── MineSweeper.cpp         # 游戏逻辑实现（本仓库核心算法）
-```
-int adjacentMines(int r, int c) const;
-```
-
 ## 📝 关键算法知识点（复习笔记，方便以后回看）
 
 1. **布雷逻辑**
